@@ -1,0 +1,6 @@
+/target
+
+# runtime files that live next to the exe, never in the repo
+*.log
+*.log[0-9]
+ReShadeUpscaler.ini
