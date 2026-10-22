@@ -97,3 +97,8 @@ Command-line options for testing:
 | `src/ui.rs` | Direct2D / DirectWrite drawing helpers |
 
 Code comments are in Italian.
+
+## License
+
+[MIT](LICENSE) © 2026 Limestudio90. This covers only the code in this repository: ReShade,
+the DLSS 5 add-ons and the NVIDIA libraries keep their own licenses.

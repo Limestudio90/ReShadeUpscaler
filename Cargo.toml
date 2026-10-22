@@ -4,6 +4,7 @@ version = "0.3.0"
 edition = "2021"
 description = "Preview and export videos through ReShade + DLSS 5 Neural Rendering, without screen recording"
 repository = "https://github.com/Limestudio90/ReShadeUpscaler"
+license = "MIT"
 
 [[bin]]
 name = "ReShadeUpscaler"
